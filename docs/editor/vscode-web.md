@@ -1,4 +1,4 @@
----
+--\_!DOCTYPE html_.html-
 Order: 11
 Area: editor
 TOCTitle: VS Code for the Web
